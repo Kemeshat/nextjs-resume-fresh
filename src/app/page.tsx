@@ -13,7 +13,9 @@ const Page: React.FC = () => {
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-2 uppercase tracking-wide">Summary</h2>
         <p className="text-gray-700">
-          Motivated global business student with experience in data analytics, database engineering, and business intelligence.
+          Motivated professional with experience in data management, reporting, and customer service. Skilled in investigating information, evaluating outcomes and communicating complex details clearly to diverse populations. Proven ability to manage high-volume workloads, multitask in fast-paced environments, and deliver empathetic, solution-focused service.
+
+.
         </p>
       </section>
 

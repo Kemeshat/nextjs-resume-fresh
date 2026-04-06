@@ -1,4 +1,6 @@
 Next.js Resume Project
+
+
 A single-page resume application built using Next.js (App Router) and Tailwind CSS. This project demonstrates the ability to scaffold a modern web application, implement semantic HTML, and apply utility-first styling without custom CSS files.
 
 🚀 How to Run Locally

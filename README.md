@@ -1,24 +1,42 @@
-Next.js Resume Project
+# Professional Resume Web App
 
+## Project Description
 
-A single-page resume application built using Next.js (App Router) and Tailwind CSS. This project demonstrates the ability to scaffold a modern web application, implement semantic HTML, and apply utility-first styling without custom CSS files.
+This project is a single-page resume website built using Next.js and Tailwind CSS. It displays my personal resume information including my education, work experience, skills, and summary in a clean and responsive layout.
 
-🚀 How to Run Locally
-Follow these steps to get the project up and running on your local machine:
+## Technologies Used
 
-1. Clone the repository:
-git clone https://github.com/Kemeshat/nextjs-resume-fresh.git
-cd nextjs-resume
+* Next.js (App Router)
+* TypeScript (TSX)
+* Tailwind CSS
+* React
 
-2. Install dependencies:
+## How to Run the Project
 
-Bash
-npm install
+1. Install dependencies:
 
-3. Run the development server:
+   ```
+   npm install
+   ```
+2. Start the development server:
 
-Bash
-npm run dev
+   ```
+   npm run dev
+   ```
+3. Open your browser and go to:
 
-4. View the project:
-Open http://localhost:3000 in your browser to see the result.
+   ```
+   http://localhost:3000
+   ```
+
+## Features Implemented
+
+* Resume sections (Header, Summary, Education, Work Experience, Skills)
+* Styled using Tailwind CSS utility classes
+* Semantic HTML structure
+* Responsive and clean layout
+
+## What I Learned
+
+While building this project, I learned how to set up a Next.js application using the App Router and TypeScript. I also gained experience using Tailwind CSS for styling instead of traditional CSS, which helped me understand utility-first design. Additionally, I became more comfortable working with JSX and organizing a project using the Next.js folder structure.
+
